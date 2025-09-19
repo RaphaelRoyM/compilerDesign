@@ -10,7 +10,7 @@ L:A'\n' {
 }
 ;
 A:LETTER B
-|'_' LETTER B
+|'_' B
 | LETTER
 ;
 B:LETTER B
