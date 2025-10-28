@@ -2,7 +2,7 @@
   lc -> line count
   ch -> charecter read from input file
   sn -> serial number in output
-  relational_op -> relatioal operand
+  relational_op -> relatioal operator
 
 */
 #include <stdio.h>
@@ -121,4 +121,5 @@ int main(int argc, char *argv[])
       sn++;
     }
   }
+
 }
