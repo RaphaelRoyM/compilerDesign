@@ -15,3 +15,4 @@ to run these files with extention (.l and .y) do steps given below
     1. yacc programName.y
     2. gcc y.tab.c
     3. ./a.out
+if you are using pow function of c program in lex or yacc when compiling with gcc add -lm at the end .this will bind the libraries
