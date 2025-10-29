@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+	int a1=2;
+	int second = 3;
+	sum = a1 +second;
+	return 1;
+}
